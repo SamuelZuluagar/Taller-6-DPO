@@ -1,0 +1,12 @@
+Instrucciones DPO Taller 6.
+1. Abrir Eclipse.
+2. File → Import... → General → Existing Projects into Workspace.
+3. En "Select root directory" elegir la carpeta de este Taller 6 (la que contiene el proyecto).
+4. Verificar que el proyecto aparece listado y darle Finish.
+5. En el Package Explorer, ubicar la clase:
+   uniandes.dpoo.swing.interfaz.principal.VentanaPrincipal
+6. Click derecho sobre VentanaPrincipal.java → Run As → Java Application.
+7. Se abre la ventana "Restaurantes" con la lista precargada:
+   - Selecciona un restaurante de la lista para ver sus detalles (nombre, calificación, visitado).
+   - "Nuevo" abre la ventana para agregar un restaurante: haz clic en un punto del mapa, llena nombre/calificación/visitado y dale "Crear restaurante".
+   - "Ver todos" abre la ventana del mapa con todos los restaurantes marcados; el radio "Visitados" filtra solo los marcados como visitados.
